@@ -32,7 +32,7 @@ void test_signal()
 		}	
 	}
 	
-	printf("finished...main...\n");
+	printf("finished...DDDDDDDDDDDDDDDDDDDDmain...\n");
 	return;
 }
 int main()
