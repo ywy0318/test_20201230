@@ -33,6 +33,8 @@ void test_signal()
 	}
 	
 	printf("finished...DDDDDDDDDDDDDDDDDDDDmain...\n");
+	printf("finished...DDDDDDDDDDDDDDDDDDDDmain...\n");
+	printf("finished...DDDDDDDDDDDDDDDDDDDDmain...\n");
 	return;
 }
 int main()
