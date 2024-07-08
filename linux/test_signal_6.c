@@ -31,6 +31,9 @@ void test_signal()
 			break;
 		}	
 	}
+	
+	printf("finished...main...\n");
+	return;
 }
 int main()
 {
